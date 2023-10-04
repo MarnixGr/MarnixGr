@@ -4,15 +4,15 @@ body {
 
 h1 {
   font-size: 50;
-  color: white;
+  color: black;
   text-align: center;
 }
 
 p {
   font-family: verdana;
-  color: white;
+  color: black;
   font-size: 30px;
 }
 table{
-  color: white;
+  color: grey;
 }
