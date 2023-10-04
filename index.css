@@ -1,5 +1,6 @@
 
 h1 {
+  font-family: verdana
   font-size: 50;
   color: black;
   text-align: center;
@@ -8,6 +9,6 @@ h1 {
 p {
   font-family: verdana;
   color: black;
-  font-size: 30px;
+  font-size: 12px;
 }
 
